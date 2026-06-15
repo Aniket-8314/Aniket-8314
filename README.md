@@ -51,13 +51,6 @@ Git • Docker • Postman • VS Code
 
 ## 🚀 Featured Projects
 
-### CivicLens
-A civic issue reporting platform enabling citizens to report infrastructure problems with geospatial visualization and complaint tracking.
-
-Tech Stack:
-FastAPI • PostgreSQL • React • JWT • Leaflet
-
----
 
 ### AI-Powered Road Damage Detection
 
@@ -74,6 +67,14 @@ Generates sentiment-controlled text using GPT-2 and Transformers.
 
 Tech Stack:
 GPT-2 • Transformers • Flask • TextBlob
+
+---
+
+### CivicLens
+A civic issue reporting platform enabling citizens to report infrastructure problems with geospatial visualization and complaint tracking.
+
+Tech Stack:
+FastAPI • PostgreSQL • React • JWT • Leaflet
 
 ---
 
